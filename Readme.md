@@ -28,3 +28,11 @@ EscrowX is a decentralized escrow service built on the blockchain. It provides a
 2. **Deposit**: The sender deposits an agreed amount of Ether to the contract using the `deposit` function.
 3. **Release/Refund**: Based on the agreement, the receiver can release the funds, or the sender can request a refund if the conditions are not met.
 4. **Reset**: After the transaction has been completed (released or refunded), the contract can be reset for new participants.
+
+## ScreenShots
+<img width="1437" alt="Screenshot 2024-12-14 at 4 08 39 PM" src="https://github.com/user-attachments/assets/0cb448e8-ff94-432e-bfdf-248f47105146" />
+<img width="1440" alt="Screenshot 2024-12-14 at 4 08 55 PM" src="https://github.com/user-attachments/assets/21cac719-4f23-4f52-adf9-941d808b3353" />
+<img width="1440" alt="Screenshot 2024-12-14 at 4 09 10 PM" src="https://github.com/user-attachments/assets/3cb9aa5e-1f97-478d-ad20-cbb986083d1c" />
+<img width="1440" alt="Screenshot 2024-12-14 at 4 05 51 PM" src="https://github.com/user-attachments/assets/0fa8dfc4-6fa3-436b-ad6f-3f11f6ef2b9b" />
+<img width="1439" alt="Screenshot 2024-12-14 at 4 06 03 PM" src="https://github.com/user-attachments/assets/b79d16c8-00a9-46cc-9698-3224017ccf21" />
+
